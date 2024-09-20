@@ -1,0 +1,10 @@
+footer{
+    height: 130px;
+    padding: 41px;
+    background-color: var(--navbar-footer-color);
+    margin-top: -38px;
+    
+}
+nav-link{
+    color: var(--primary-color);    
+}

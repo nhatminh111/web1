@@ -1,0 +1,22 @@
+.card{
+    background-color: var(--secondary-color);
+    border: none;
+    
+}
+input[type = text],input[type = email] {
+   height: 60px;
+   padding-left: 20px;
+   font-size: 13px;
+   width: 100%;
+}
+.bth-sub {
+    height: 100px;
+    border: none;
+    font-size: 13px;
+    background-color: var(--primary-color);
+}
+h3, p{
+    color: var(--body-text-color);
+    font-family: 'Roboto';
+
+}

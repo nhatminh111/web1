@@ -1,0 +1,10 @@
+.bg-color{
+    background-color: var(--primary-color);
+    height: 200px;
+    color: white;
+}
+.cate-page{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 130px;
+}
